@@ -1,0 +1,16 @@
+name: HexicPVP
+version: 1.0
+main: me.phantom.Main
+description: HexicPvP plugin.
+
+commands:
+    debug:
+    pinfo:
+    setrank:
+    paragon:
+    setTokens:
+    ftutorial:
+    togglesb:
+    points:
+    report:
+
